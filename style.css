@@ -1,0 +1,48 @@
+.alert-secondary{
+    background-color: rgb(36, 193, 186) !important;
+    color: black !important;
+    font-size: xx-large;
+    font-style: italic;
+}
+.main{
+    background-color: rgb(36, 193, 186) !important;
+    text-align: center;
+    margin-top: 30px;
+  font-style: oblique;
+}
+.one{
+    border: 1px solid white;
+    box-shadow: 10px 10px 15px rgb(232, 236, 239);
+    margin-top: 40px;
+    /* border-radius: 20px; */
+}
+.colur{
+    
+    font-style: oblique;
+    font-weight: 500;
+}
+
+.two,.four ,.six,.eight,.ten{
+    padding-left: 50px;
+   
+}
+.three ,.five ,.seven,.nine{
+    border: 1px solid white;
+    box-shadow: 10px 10px 15px rgb(232, 236, 239);
+    margin-top: 70px;
+    
+}
+
+.alert-danger{
+    background-color: rgb(36, 193, 186) !important ;
+    color: white !important;
+    margin-top:160px;
+}
+.btn-primary{
+    background-color: rgb(36, 193, 186) !important ;
+    font-weight: 500 !important;
+    font-style: italic !important;
+    width: 450px !important;
+    font-size: x-large !important;
+    margin: 0 auto;
+}
